@@ -31,7 +31,7 @@ require_once('data/get_destination.php');
       </li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="index.php"><span class="glyphicon glyphicon-backward"></span> Back To Home</a></li>
+      <li><a href="index.html"><span class="glyphicon glyphicon-backward"></span> Back To Home</a></li>
     </ul>
   </div>
 </nav>
