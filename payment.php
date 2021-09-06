@@ -206,7 +206,7 @@ if(isset($_SESSION['tracker'])){
 						    <strong>- Booked ID: <?= $tracker; ?></strong>
 						   </table>
 						   <center>
-							   <a href="index.php" class="btn btn-success">Return Home
+							   <a href="index.html" class="btn btn-success">Return Home
 								   <span class="glyphicon glyphicon-backward" aria-hidden="true"></span>
 							   </a>
 						   </center>
